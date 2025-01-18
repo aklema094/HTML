@@ -1,0 +1,33 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+button{
+    color: brown;
+    background-color: green;
+}
+body{
+    background-color: wheat;
+}
+h1{
+    color :blue;
+}
+#sul{
+    color: chartreuse;
+}
+.a{
+    color: white;
+}
+#pp{
+    color: red;
+    text-align: center;
+    text-decoration: green wavy underline;
+    text-transform: capitalize;
+}
+#one{
+    font-weight: 600;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: cadetblue;
+    text-align: center;
+    font-size: 20px;
+    line-height: 50px;
+}
